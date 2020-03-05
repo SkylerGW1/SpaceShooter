@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "42b04363-d147-41a5-b837-25c3fe80f270",
+            "Value": {
+                "id": "e687d6d8-4736-4c54-bb04-5938b78dd5e8",
+                "resourcePath": "objects\\OBJ_Asteroid_Mini\\OBJ_Asteroid_Mini.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "45821345-eec4-4a7f-9021-b56df3980c72",
             "Value": {
                 "id": "798a22f2-1002-4f02-9808-6f438669a3a9",
